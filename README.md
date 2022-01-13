@@ -1,6 +1,6 @@
-<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25"> Hello, This is Kaustubh Vats </h3>
+<h3 align="center"><img src="imgs/wave.gif" height="25"> Hello, This is Kaustubh Vats </h3>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Web+and+Android+Developer;Data+Structure+and+Algorithm+enthusiast;Student+at+Lovely+Professional+University&width=470" alt="description animated text"/>
+<img src="imgs/myDescription.svg" alt="description animated text"/>
 </div>
 <div align="center">
   <a target="_blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff&style=for-the-badge" alt="Link to Portfolio"></a>
@@ -25,3 +25,10 @@
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Mail&message=kaustubhvats08@gmail.com&color=D44638">
   </a>
 </p>
+
+### 📚 Education
+<div align="center">
+<img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="50%">
+</div>
+
+<img width="100%" src="imgs/projects.png">
