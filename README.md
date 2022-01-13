@@ -30,5 +30,3 @@
 <div align="center">
 <img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="50%">
 </div>
-
-<img width="100%" src="imgs/projects.png">
