@@ -1,22 +1,27 @@
-<div align="center"><img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" alt="Hello World Image" height="400"></img></div>
-<h3 align="center">Hello This is Kaustubh Vats</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25"> Hello, This is Kaustubh Vats </h3>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Web+and+Android+Developer;Data+Structure+and+Algorithm+enthusiast;Student+at+Lovely+Professional+University&width=470" alt="description animated text"/>
 </div>
 <div align="center">
-  <a target="_blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff" alt="Link to Portfolio"></a>
+  <a target="_blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff&style=for-the-badge" alt="Link to Portfolio"></a>
 </div>
-<!--
-**kaustubh-vats/kaustubh-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🤝🏻 Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaustubh-vats/" alt="Lets chat and build something">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Profile&message=LinkedIn&color=0e76a8"/>
+  </a>
+  <a href="https://www.hackerrank.com/kaustubhvats08">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Hackerrank&label=Profile&message=HackerRank&color=21A952">
+  </a>
+  <a href="https://leetcode.com/kaustubhvats28/">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=leetcode&label=Profile&message=LeetCode&color=EB971A">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kaustubhvats08/practice/">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=geeksforgeeks&label=Profile&message=GeeksForGeeks&color=2F8743">
+  </a>
+  <a href="mailto:kaustubhvats08@gmail.com">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=gmail&label=Mail&message=kaustubhvats08@gmail.com&color=D44638">
+  </a>
+</p>
