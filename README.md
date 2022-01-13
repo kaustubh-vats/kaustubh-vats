@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h3 align="center">Hello This is Kaustubh Vats</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+and+Android+Developer;Data+Structure+and+Algorithm+enthusiast;Student+at+Lovely+Professional+University)](https://git.io/typing-svg)
+<div align="center">
+  <a target="__blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff" alt="Link to Portfolio"></a>
+</div>
 <!--
 **kaustubh-vats/kaustubh-vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
