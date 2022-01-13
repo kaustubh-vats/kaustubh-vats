@@ -1,5 +1,5 @@
 <h3 align="center">Hello This is Kaustubh Vats</h3>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+and+Android+Developer;Data+Structure+and+Algorithm+enthusiast;Student+at+Lovely+Professional+University" alt="description animated text"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Web+and+Android+Developer;Data+Structure+and+Algorithm+enthusiast;Student+at+Lovely+Professional+Universitye&width=380&height=45" alt="description animated text"/>
 <div align="center">
   <a target="_blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff" alt="Link to Portfolio"></a>
 </div>
