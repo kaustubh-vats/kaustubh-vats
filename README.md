@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" alt="Hello World Image" width="480" height="480"></img></div>
+<div align="center"><img src="https://media.giphy.com/media/s63Jzew1dfO3j6nndV/giphy.gif" alt="Hello World Image"></img></div>
 <h3 align="center">Hello This is Kaustubh Vats</h3>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Web+and+Android+Developer;Data+Structure+and+Algorithm+enthusiast;Student+at+Lovely+Professional+University&width=470" alt="description animated text"/>
