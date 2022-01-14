@@ -85,6 +85,8 @@
         alt="Express">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Flutter&message=FrameWork&label=Flutter&color=66B1F1&logoColor=66B1F1"
         alt="Flutter">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Laravel&message=FrameWork&label=Laravel&color=EB4D43"
+        alt="Flutter">
 </div>
 <br />
 <div align="center">
