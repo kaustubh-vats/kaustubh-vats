@@ -33,7 +33,7 @@
 
 ### 🎨 Skills and Technologies
 <div align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=c%2B%2B&message=Programming%20Language&label=C%2B%2B&color=0079C2"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=c%2B%2B&message=Programming%20Language&label=C%2B%2B&color=0079C2&logoColor=0079C2"
         alt="C Plus Plus">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Python&message=Programming%20Language&label=Python&color=356E9F"
         alt="Python">
@@ -41,17 +41,17 @@
         alt="JavaScript">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=HTML5&message=Programming%20Language&label=HTML&color=E46029"
         alt="HTML">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Css3&message=Programming%20Language&label=CSS&color=2091EB"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Css3&message=Programming%20Language&label=CSS&color=2091EB&logoColor=2091EB"
         alt="CSS">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Java&message=Programming%20Language&label=Java&color=0D83BE"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Java&message=Programming%20Language&label=Java&color=0D83BE&logoColor=0D83BE"
         alt="Java">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Php&message=Programming%20Language&label=PHP&color=828BB4"
         alt="PHP">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Kotlin&message=Programming%20Language&label=Kotlin&color=8543ED"
         alt="Kotlin">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Solidity&message=Programming%20Language&label=Solidity&color=313131"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Solidity&message=Programming%20Language&label=Solidity&color=313131&logoColor=313131"
         alt="Solidity">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=C&message=Programming%20Language&label=C&color=005494"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=C&message=Programming%20Language&label=C&color=005494&logoColor=005494"
         alt="C">
 </div>
 <br />
@@ -67,7 +67,7 @@
 <div align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=AndroidStudio&message=Tool&label=Android%20Studio&color=30D780"
         alt="Android Studio">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Visual%20Studio&message=Tool&label=VSCode&color=22A4EA"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Visual%20Studio&message=Tool&label=VSCode&color=22A4EA&logoColor=22A4EA"
         alt="VSCode">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Arduino&message=Tool&label=Arduino%20IDE&color=F7F7F7"
         alt="Arduino IDE">
@@ -78,22 +78,22 @@
 </div>
 <br />
 <div align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Flask&message=FrameWork&label=Flask&color=000000"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Flask&message=FrameWork&label=Flask&color=000000&logoColor=000000"
         alt="Flask">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Django&message=FrameWork&label=Django&color=092D1F"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Django&message=FrameWork&label=Django&color=092D1F&logoColor=092D1F"
         alt="Django">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Express&message=FrameWork&label=Express&color=7E7E7E"
         alt="Express">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Flutter&message=FrameWork&label=Flutter&color=66B1F1"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Flutter&message=FrameWork&label=Flutter&color=66B1F1&logoColor=66B1F1"
         alt="Flutter">
 </div>
 <br />
 <div align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=opencv&message=Libraries&label=OpenCV&color=F72942"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=opencv&message=Libraries&label=OpenCV&color=F72942&logoColor=F72942"
         alt="OpenCV">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=pandas&message=Libraries&label=Pandas&color=150455"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=pandas&message=Libraries&label=Pandas&color=150455&logoColor=150455"
         alt="Pandas">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=numpy&message=Libraries&label=numpy&color=4B73C9"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=numpy&message=Libraries&label=numpy&color=4B73C9&logoColor=4B73C9"
         alt="numpy">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=react&message=Libraries&label=React&color=00D1F7"
         alt="React">
@@ -102,7 +102,7 @@
 <div align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=firebase&message=Database&label=firebase&color=0396DE"
         alt="firebase">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=sqlite&message=Database&label=SQLite&color=003851"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=sqlite&message=Database&label=SQLite&color=003851&logoColor=003851"
         alt="SQLite">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=mysql&message=Database&label=MySQL&color=F79F0F"
         alt="MySQL">
