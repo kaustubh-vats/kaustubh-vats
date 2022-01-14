@@ -33,8 +33,7 @@
 
 ### 🎨 Skills and Technologies
 <div align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=c%2B%2B&message=Programming%20Language&label=C%2B%2B&color=0079C2&logoColor=0079C2"
-        alt="C Plus Plus">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=c%2B%2B&message=Programming%20Language&label=C%2B%2B&color=0079C2&logoColor=0079C2" alt="C Plus Plus">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Python&message=Programming%20Language&label=Python&color=356E9F"
         alt="Python">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=JavaScript&message=Programming%20Language&label=JavaScript&color=EAD41C"
@@ -108,4 +107,19 @@
         alt="MySQL">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=MongoDB&message=Database&label=MongoDB&color=50AE3F"
         alt="MongoDB">
+</div>
+### Projects
+<div align="center">
+<a href="https://coin-meter.netlify.app/">
+    <img src="imgs/coin-meter.png" alt="Coin Meter UI Image" width="350px">
+</a>
+<a href="https://sorting-visualizer-kaustubh.netlify.app/">
+    <img src="imgs/sorting-visualizer.gif" alt="Sorting Visualizer UI Image" width="350px">
+</a>
+<a href="https://quizzzer.herokuapp.com/">
+    <img src="imgs/quizzer.png" alt="Quizzer UI Image" width="350px">
+</a>
+<a href="https://drive.google.com/file/d/1PXvRcHEg6rf_-J_hBF2oBt-Fo-IYZ4hY/view?usp=sharing">
+    <img src="imgs/frintos.png" alt="Frintos UI Image" width="350px">
+</a>
 </div>
