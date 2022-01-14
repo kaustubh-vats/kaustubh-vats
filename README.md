@@ -109,7 +109,7 @@
         alt="MongoDB">
 </div>
 
-### Projects
+### 🧑🏻‍💻 Projects
 <div align="center">
 <a href="https://coin-meter.netlify.app/">
     <img src="imgs/coin-meter.png" alt="Coin Meter UI Image" width="350px">
