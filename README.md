@@ -28,5 +28,7 @@
 
 ### 📚 Education
 <div align="center">
-<img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="50%">
+<img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="70%">
 </div>
+
+### 🎨 Skills and Technologies
