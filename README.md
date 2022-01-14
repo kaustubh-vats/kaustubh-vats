@@ -1,6 +1,6 @@
 <h3 align="center"><img src="imgs/wave.gif" height="25"> Hello, This is Kaustubh Vats </h3>
 <div align="center">
-<img src="imgs/myDescription.svg" alt="description animated text"/>
+<img src="imgs/myDescription.svg" alt="description animated text" width="100%"/>
 </div>
 <div align="center">
   <a target="__blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff&style=for-the-badge" alt="Link to Portfolio"></a>
@@ -28,7 +28,7 @@
 
 ### 📚 Education
 <div align="center">
-<img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="70%">
+<img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="80%">
 </div>
 
 ### 🎨 Skills and Technologies
@@ -56,11 +56,11 @@
 </div>
 <br />
 <div align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Android&message=Technology&label=Android&color=0079C2"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Android&message=Technology&label=Android&color=30D780"
         alt="Android">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Arduino&message=Technology&label=Arduino&color=0079C2"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Arduino&message=Technology&label=Arduino&color=009297"
         alt="Arduino">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Bitcoin&message=Technology&label=Blockchain&color=0079C2"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Bitcoin&message=Technology&label=Blockchain&color=F7931A"
         alt="Blockchain">
 </div>
 <br />
@@ -69,7 +69,7 @@
         alt="Android Studio">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Visual%20Studio&message=Tool&label=VSCode&color=22A4EA&logoColor=22A4EA"
         alt="VSCode">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Arduino&message=Tool&label=Arduino%20IDE&color=F7F7F7"
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=Arduino&message=Tool&label=Arduino%20IDE&color=009297"
         alt="Arduino IDE">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Git&message=Tool&label=Git&color=E84E31"
         alt="Git">
