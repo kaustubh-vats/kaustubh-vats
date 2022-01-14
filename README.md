@@ -10,7 +10,7 @@
 
 <p align="center">
   <a target="__blank" href="https://www.linkedin.com/in/kaustubh-vats/">
-    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Profile&message=LinkedIn&color=0e76a8" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Profile&message=LinkedIn&color=0e76a8&logoColor=0e76a8" alt="LinkedIn"/>
   </a>
   <a target="__blank" href="https://www.hackerrank.com/kaustubhvats08">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Hackerrank&label=Profile&message=HackerRank&color=21A952" alt="HackerRank">
