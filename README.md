@@ -108,6 +108,7 @@
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=MongoDB&message=Database&label=MongoDB&color=50AE3F"
         alt="MongoDB">
 </div>
+
 ### Projects
 <div align="center">
 <a href="https://coin-meter.netlify.app/">
