@@ -114,12 +114,15 @@
 <a href="https://coin-meter.netlify.app/">
     <img src="imgs/coin-meter.png" alt="Coin Meter UI Image" width="350px">
 </a>
+&nbsp;&nbsp;
 <a href="https://sorting-visualizer-kaustubh.netlify.app/">
     <img src="imgs/sorting-visualizer.gif" alt="Sorting Visualizer UI Image" width="350px">
 </a>
+&nbsp;&nbsp;
 <a href="https://quizzzer.herokuapp.com/">
     <img src="imgs/quizzer.png" alt="Quizzer UI Image" width="350px">
 </a>
+&nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1PXvRcHEg6rf_-J_hBF2oBt-Fo-IYZ4hY/view?usp=sharing">
     <img src="imgs/frintos.png" alt="Frintos UI Image" width="350px">
 </a>
