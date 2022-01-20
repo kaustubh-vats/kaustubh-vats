@@ -129,3 +129,7 @@
     <img src="imgs/frintos.png" alt="Frintos UI Image" width="350px">
 </a>
 </div>
+
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaustubh-vats&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD)](https://git.io/streak-stats)
