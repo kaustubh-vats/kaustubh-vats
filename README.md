@@ -140,7 +140,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kaustubh-vats&show_icons=true&theme=react" alt="Stats image">
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-vats&theme=react" alt="Language stats image">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-vats&theme=react&layout=compact" alt="Language stats image">
 </span>
 <span>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubhvats&theme=react&layout=compact" alt="WakaTime stats image"> 
