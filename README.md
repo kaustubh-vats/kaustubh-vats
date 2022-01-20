@@ -130,9 +130,20 @@
 </a>
 </div>
 
+### 📈 Statistics
 <br />
 <div align="center">
-
+<span>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-vats&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image"/>
-
+</span>
+<span>
+<img src="https://github-readme-stats.vercel.app/api?username=kaustubh-vats&show_icons=true&theme=radical" alt="Stats image">
+</span>
+<span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-vats&theme=react" alt="Language stats image">
+</span>
+<span>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubhvats&theme=react&layout=compact" alt="WakaTime stats image"> 
+</span>
+<img src="https://activity-graph.herokuapp.com/graph?username=kaustubh-vats&theme=react-dark" alt="Contribution graph image"/>
 </div>
