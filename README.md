@@ -131,5 +131,8 @@
 </div>
 
 <br />
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaustubh-vats&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-vats&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image"/>
+
+</div>
