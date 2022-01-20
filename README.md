@@ -134,16 +134,16 @@
 <br />
 <div align="center">
 <span>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-vats&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width="500px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaustubh-vats&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width="400px"/>
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=kaustubh-vats&show_icons=true&theme=react" width="500px" alt="Stats image">
+<img src="https://github-readme-stats.vercel.app/api?username=kaustubh-vats&show_icons=true&theme=react" width="400px" alt="Stats image">
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-vats&theme=react&layout=compact" width="500px" alt="Language stats image">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh-vats&theme=react&layout=compact" width="400px" alt="Language stats image">
 </span>
 <span>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubhvats&theme=react&layout=compact" width="500px" alt="WakaTime stats image"> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubhvats&theme=react&layout=compact" width="400px" alt="WakaTime stats image"> 
 </span>
 <img src="https://activity-graph.herokuapp.com/graph?username=kaustubh-vats&theme=react-dark" alt="Contribution graph image"/>
 </div>
