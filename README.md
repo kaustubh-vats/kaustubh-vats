@@ -3,7 +3,7 @@
 <img src="imgs/myDescription.svg" alt="description animated text" width="100%"/>
 </div>
 <div align="center">
-  <a target="__blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/static/v1?label=Link To&message=My%20Portfolio%20Website&color=007aff&style=for-the-badge" alt="Link to Portfolio"></a>
+  <a target="__blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
 </div>
 
 ### 🤝🏻 Social Media
