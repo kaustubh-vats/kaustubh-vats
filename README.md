@@ -134,7 +134,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="#">
-    <img src="imgs/Hotel.png" alt="Hotel UI Image" width="350px">
+    <img src="imgs/hotel.png" alt="Hotel UI Image" width="350px">
 </a>
 </div>
 
