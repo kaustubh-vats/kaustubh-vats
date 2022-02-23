@@ -133,7 +133,7 @@
     <img src="imgs/netflix.png" alt="Netflix Clone UI Image" width="350px">
 </a>
 &nbsp;&nbsp;
-<a href="#">
+<a href="https://github.com/kaustubh-vats/elite-peak">
     <img src="imgs/hotel.png" alt="Hotel UI Image" width="350px">
 </a>
 </div>
