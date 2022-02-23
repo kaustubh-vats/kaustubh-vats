@@ -128,6 +128,14 @@
 <a href="https://drive.google.com/file/d/1PXvRcHEg6rf_-J_hBF2oBt-Fo-IYZ4hY/view?usp=sharing">
     <img src="imgs/frintos.png" alt="Frintos UI Image" width="350px">
 </a>
+&nbsp;&nbsp;
+<a href="https://netflix-clone-kaustubh.herokuapp.com/">
+    <img src="imgs/netflix.png" alt="Netflix Clone UI Image" width="350px">
+</a>
+&nbsp;&nbsp;
+<a href="#">
+    <img src="imgs/Hotel.png" alt="Hotel UI Image" width="350px">
+</a>
 </div>
 
 ### 📈 Statistics
