@@ -9,8 +9,14 @@
 ### 🤝🏻 Social Media
 
 <p align="center">
+  <a href="https://wakatime.com/@49a4b5a3-8d9f-4ff9-95dc-67e32d20f8b4">
+    <img src="https://wakatime.com/badge/user/49a4b5a3-8d9f-4ff9-95dc-67e32d20f8b4.svg" alt="Total time coded since Jul 14 2020" />
+  </a>
   <a target="__blank" href="https://www.linkedin.com/in/kaustubh-vats/">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=linkedin&label=Profile&message=LinkedIn&color=0e76a8&logoColor=0e76a8" alt="LinkedIn"/>
+  </a>
+  <a target="__blank" href="https://www.codechef.com/users/kaustubh_vats">
+    <img src="https://img.shields.io/static/v1?style=flat-square&logo=CodeChef&label=Profile&message=CodeChef&color=6F3C1C" alt="CodeChef">
   </a>
   <a target="__blank" href="https://www.hackerrank.com/kaustubhvats08">
     <img src="https://img.shields.io/static/v1?style=flat-square&logo=Hackerrank&label=Profile&message=HackerRank&color=21A952" alt="HackerRank">
