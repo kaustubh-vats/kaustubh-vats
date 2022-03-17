@@ -6,7 +6,7 @@
   <a target="__blank" href="https://kaustubhvats-portfolio.netlify.app" align="center"><img src="https://img.shields.io/badge/Link%20To-My%20Portfolio%20Website-0e76a8?style=for-the-badge" alt="Link to Portfolio"></a>
 </div>
 
-### 🤝🏻 Social Media
+### 🔗 Quick Links
 
 <p align="center">
   <a href="https://wakatime.com/@49a4b5a3-8d9f-4ff9-95dc-67e32d20f8b4">
