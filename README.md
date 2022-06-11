@@ -120,11 +120,11 @@
 ### 🧑🏻‍💻 Projects
 <div align="center">
 <a href="https://coin-meter.netlify.app/">
-    <img src="imgs/coin-meter.png" alt="Coin Meter UI Image" width="350px">
+    <img src="imgs/coin-meter.png" alt="Coin Meter UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://sorting-visualizer-kaustubh.netlify.app/">
-    <img src="imgs/sorting-visualizer.gif" alt="Sorting Visualizer UI Image" width="350px">
+    <img src="imgs/sorting-visualizer.gif" alt="Sorting Visualizer UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://quizzzer.herokuapp.com/">
