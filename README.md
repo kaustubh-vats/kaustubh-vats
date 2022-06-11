@@ -128,19 +128,19 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://quizzzer.herokuapp.com/">
-    <img src="imgs/quizzer.png" alt="Quizzer UI Image" width="350px">
+    <img src="imgs/quizzer.png" alt="Quizzer UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1PXvRcHEg6rf_-J_hBF2oBt-Fo-IYZ4hY/view?usp=sharing">
-    <img src="imgs/frintos.png" alt="Frintos UI Image" width="350px">
+    <img src="imgs/frintos.png" alt="Frintos UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://netflix-clone-kaustubh.herokuapp.com/">
-    <img src="imgs/netflix.png" alt="Netflix Clone UI Image" width="350px">
+    <img src="imgs/netflix.png" alt="Netflix Clone UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kaustubh-vats/elite-peak">
-    <img src="imgs/hotel.png" alt="Hotel UI Image" width="350px">
+    <img src="imgs/hotel.png" alt="Hotel UI Image" width="350px" height="auto"/>
 </a>
 </div>
 
