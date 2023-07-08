@@ -149,6 +149,14 @@
 <a href="https://github.com/kaustubh-vats/elite-peak">
     <img src="imgs/hotel.png" alt="Hotel UI Image" width="350px" height="auto"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/kaustubh-vats/kbc-quiz">
+    <img src="imgs/kbc.png" alt="KBC Quiz UI Image" width="350px" height="auto"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kaustubh-vats/logix">
+    <img src="imgs/logix.png" alt="Logix UI Image" width="350px" height="auto"/>
+</a>
 </div>
 
 ### 📈 Statistics
@@ -166,5 +174,5 @@
 <span>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubhvats&theme=react&layout=compact" width="400px" alt="WakaTime stats image"> 
 </span>
-<img src="https://activity-graph.herokuapp.com/graph?username=kaustubh-vats&theme=react-dark" alt="Contribution graph image"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh-vats&bg_color=000000&color=4c9e9d&line=4c9d9e&point=fefffa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Contribution graph image"/>
 </div>
