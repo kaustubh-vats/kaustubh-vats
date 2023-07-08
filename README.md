@@ -150,11 +150,11 @@
     <img src="imgs/hotel.png" alt="Hotel UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/kaustubh-vats/kbc-quiz">
+<a href="https://kbc-quiz-kaustubh.netlify.app/">
     <img src="imgs/kbc.png" alt="KBC Quiz UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/kaustubh-vats/logix">
+<a href="https://logicx.netlify.app/">
     <img src="imgs/logix.png" alt="Logix UI Image" width="350px" height="auto"/>
 </a>
 </div>
