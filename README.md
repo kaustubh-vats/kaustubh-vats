@@ -174,5 +174,5 @@
 <span>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaustubhvats&theme=react&layout=compact" width="400px" alt="WakaTime stats image"> 
 </span>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh-vats&bg_color=000000&color=4c9e9d&line=4c9d9e&point=fefffa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="Contribution graph image"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaustubh-vats&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Contribution graph image"/>
 </div>
