@@ -37,12 +37,20 @@
   </a>
 </p>
 
+### 💼 Experience
+<div align="center">
+    <a href="https://codepen.io/kaustubh-vats/full/GRdmWYY" target="_blank">
+        <img src="imgs/expcard.png" alt="SDE at Whatfix" width="80%">
+    </a>
+</div>
+
 ### 📚 Education
 <div align="center">
     <a href="https://codepen.io/kaustubh-vats/full/QWrvNNy" target="_blank">
         <img src="imgs/educard.png" alt="B.Tech at Lovely Professional University" width="80%">
     </a>
 </div>
+
 
 ### 🎨 Skills and Technologies
 <div align="center">
