@@ -142,7 +142,7 @@
     <img src="imgs/sorting-visualizer.gif" alt="Sorting Visualizer UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://quizzzer.herokuapp.com/">
+<a href="https://quizzer-00z2.onrender.com">
     <img src="imgs/quizzer.png" alt="Quizzer UI Image" width="350px" height="auto"/>
 </a>
 &nbsp;&nbsp;
